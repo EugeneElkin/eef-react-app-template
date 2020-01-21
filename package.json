@@ -12,37 +12,37 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/EugeneElkin/eef-thesaurus-trainer.git"
+        "url": "[REPO_PATH_GIT]"
     },
     "author": "Evgenii Elkin",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/EugeneElkin/eef-thesaurus-trainer/issues"
+        "url": "[REPO_PATH]/issues"
     },
-    "homepage": "https://github.com/EugeneElkin/eef-thesaurus-trainer#readme",
+    "homepage": "[REPO_PATH]#readme",
     "dependencies": {
-        "axios": "^0.19.0",
-        "react": "^16.8.6",
-        "react-dom": "^16.8.6",
-        "react-redux": "^7.1.0",
-        "redux": "^4.0.1",
-        "uuid": "^3.3.2"
+        "axios": "^0.19.1",
+        "react": "^16.12.0",
+        "react-dom": "^16.12.0",
+        "react-redux": "^7.1.3",
+        "redux": "^4.0.5",
+        "uuid": "^3.4.0"
     },
     "devDependencies": {
-        "@types/react": "^16.8.23",
-        "@types/react-dom": "^16.8.4",
-        "@types/react-redux": "^7.1.1",
-        "app-root-path": "^2.2.1",
+        "@types/react": "^16.9.17",
+        "@types/react-dom": "^16.9.5",
+        "@types/react-redux": "^7.1.6",
+        "app-root-path": "^3.0.0",
         "awesome-typescript-loader": "^5.2.1",
-        "copy-webpack-plugin": "^5.0.3",
-        "css-loader": "^3.0.0",
+        "copy-webpack-plugin": "^5.1.1",
+        "css-loader": "^3.4.2",
         "html-webpack-plugin": "^3.2.0",
         "source-map-loader": "^0.2.4",
-        "style-loader": "^0.23.1",
-        "tslint": "^5.18.0",
-        "typescript": "^3.5.2",
-        "webpack": "^4.35.2",
-        "webpack-cli": "^3.3.5",
-        "webpack-dev-server": "^3.7.2"
+        "style-loader": "^1.1.3",
+        "tslint": "^5.20.1",
+        "typescript": "^3.7.5",
+        "webpack": "^4.41.5",
+        "webpack-cli": "^3.3.10",
+        "webpack-dev-server": "^3.10.1"
     }
 }
